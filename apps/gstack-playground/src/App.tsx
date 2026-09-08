@@ -15,14 +15,26 @@ const storageKey = 'gstack-playground-brief'
 const starterBrief =
   'Build a self-contained playground that helps a founder understand when to use each gstack specialist and how a brief moves from CEO taste review into design and engineering planning.'
 
+function getInitialBrief() {
+  try {
+    return localStorage.getItem(storageKey) ?? starterBrief
+  } catch {
+    return starterBrief
+  }
+}
+
 function App() {
   const [query, setQuery] = useState('')
   const [phase, setPhase] = useState<Phase | 'All'>('All')
   const [selectedRole, setSelectedRole] = useState<GstackRole | null>(roles[0])
-  const [brief, setBrief] = useState(() => localStorage.getItem(storageKey) ?? starterBrief)
+  const [brief, setBrief] = useState(getInitialBrief)
 
   useEffect(() => {
-    localStorage.setItem(storageKey, brief)
+    try {
+      localStorage.setItem(storageKey, brief)
+    } catch {
+      // Ignore storage failures so the playground remains usable.
+    }
   }, [brief])
 
   const filteredRoles = useMemo(() => {
