@@ -1,5 +1,14 @@
 {
-  "proposed": [],
+  "proposed": [
+    {
+      "id": "gstack",
+      "title": "gstack (Garry Tan Claude Code pack)",
+      "url": "https://x.com/hasantoxr/status/2096255783415779684",
+      "repo": "https://github.com/garrytan/gstack",
+      "date": "2026-09-08",
+      "proposed_slug": "gstack-playground"
+    }
+  ],
   "built": [],
   "skipped": []
 }
