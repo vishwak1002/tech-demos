@@ -1,5 +1,6 @@
 {
-  "proposed": [
+  "proposed": [],
+  "built": [
     {
       "id": "gstack",
       "title": "gstack (Garry Tan Claude Code pack)",
@@ -9,6 +10,5 @@
       "proposed_slug": "gstack-playground"
     }
   ],
-  "built": [],
   "skipped": []
 }
