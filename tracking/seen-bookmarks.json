@@ -23,6 +23,15 @@
       "date": "2026-09-14",
       "stars": 39983,
       "proposed_slug": "novu-playground"
+    },
+    {
+      "id": "cap",
+      "title": "Cap (open-source Loom)",
+      "url": "https://x.com/hasantoxr/status/2096255783415779684",
+      "repo": "https://github.com/CapSoftware/cap",
+      "date": "2026-09-15",
+      "stars": 22242,
+      "proposed_slug": "cap-playground"
     }
   ],
   "built": [],
