@@ -32,6 +32,15 @@
       "date": "2026-09-15",
       "stars": 22242,
       "proposed_slug": "cap-playground"
+    },
+    {
+      "id": "dify",
+      "title": "Dify (open-source AI agents & workflows)",
+      "url": "https://x.com/hasantoxr/status/2096255783415779684",
+      "repo": "https://github.com/langgenius/dify",
+      "date": "2026-09-16",
+      "stars": 155880,
+      "proposed_slug": "dify-playground"
     }
   ],
   "built": [],
