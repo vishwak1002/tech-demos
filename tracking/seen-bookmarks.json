@@ -41,7 +41,9 @@
       "date": "2026-09-16",
       "stars": 155880,
       "proposed_slug": "dify-playground"
-    },
+    }
+  ],
+  "built": [
     {
       "id": "last30days",
       "title": "Last 30 Days (research skill for AI agents)",
@@ -52,6 +54,5 @@
       "proposed_slug": "last30days-playground"
     }
   ],
-  "built": [],
   "skipped": []
 }
