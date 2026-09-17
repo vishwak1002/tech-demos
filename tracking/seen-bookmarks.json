@@ -41,6 +41,15 @@
       "date": "2026-09-16",
       "stars": 155880,
       "proposed_slug": "dify-playground"
+    },
+    {
+      "id": "last30days",
+      "title": "Last 30 Days (research skill for AI agents)",
+      "url": "https://x.com/hasantoxr/status/2096255783415779684",
+      "repo": "https://github.com/mvanhorn/last30days-skill",
+      "date": "2026-09-17",
+      "stars": 62167,
+      "proposed_slug": "last30days-playground"
     }
   ],
   "built": [],
