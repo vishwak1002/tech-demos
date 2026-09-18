@@ -41,6 +41,15 @@
       "date": "2026-09-16",
       "stars": 155880,
       "proposed_slug": "dify-playground"
+    },
+    {
+      "id": "marketingskills",
+      "title": "Marketing Skills (AI agent marketing skill pack)",
+      "url": "https://x.com/hasantoxr/status/2096255783415779684",
+      "repo": "https://github.com/coreyhaines31/marketingskills",
+      "date": "2026-09-18",
+      "stars": 50741,
+      "proposed_slug": "marketingskills-playground"
     }
   ],
   "built": [
