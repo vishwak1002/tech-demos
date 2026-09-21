@@ -50,6 +50,15 @@
       "date": "2026-09-18",
       "stars": 50741,
       "proposed_slug": "marketingskills-playground"
+    },
+    {
+      "id": "shadcn-ui",
+      "title": "shadcn/ui (copy-own component system)",
+      "url": "https://x.com/hasantoxr/status/2096255783415779684",
+      "repo": "https://github.com/shadcn-ui/ui",
+      "date": "2026-09-21",
+      "stars": 124272,
+      "proposed_slug": "shadcn-playground"
     }
   ],
   "built": [
