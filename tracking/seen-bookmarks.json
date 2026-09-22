@@ -59,6 +59,15 @@
       "date": "2026-09-21",
       "stars": 124272,
       "proposed_slug": "shadcn-playground"
+    },
+    {
+      "id": "openreplay",
+      "title": "OpenReplay (self-hosted session replay)",
+      "url": "https://x.com/hasantoxr/status/2096255783415779684",
+      "repo": "https://github.com/openreplay/openreplay",
+      "date": "2026-09-22",
+      "stars": 12887,
+      "proposed_slug": "openreplay-playground"
     }
   ],
   "built": [
