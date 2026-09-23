@@ -68,6 +68,15 @@
       "date": "2026-09-22",
       "stars": 12887,
       "proposed_slug": "openreplay-playground"
+    },
+    {
+      "id": "papermark",
+      "title": "Papermark (open-source DocSend)",
+      "url": "https://x.com/hasantoxr/status/2096255783415779684",
+      "repo": "https://github.com/papermark/papermark",
+      "date": "2026-09-23",
+      "stars": 9207,
+      "proposed_slug": "papermark-playground"
     }
   ],
   "built": [
