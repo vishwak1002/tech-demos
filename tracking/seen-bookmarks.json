@@ -86,6 +86,15 @@
       "date": "2026-09-24",
       "stars": 560,
       "proposed_slug": "devopness-playground"
+    },
+    {
+      "id": "animejs",
+      "title": "Anime.js v4 (JavaScript animation engine)",
+      "url": "https://x.com/himanshubuildss/status/2105902592886968702",
+      "repo": "https://github.com/juliangarnier/anime",
+      "date": "2026-10-05",
+      "stars": 73358,
+      "proposed_slug": "animejs-playground"
     }
   ],
   "built": [
