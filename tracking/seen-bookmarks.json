@@ -95,6 +95,15 @@
       "date": "2026-10-05",
       "stars": 73358,
       "proposed_slug": "animejs-playground"
+    },
+    {
+      "id": "agency-agents",
+      "title": "Agency Agents (specialist AI agency pack)",
+      "url": "https://x.com/VaibhavSisinty/status/2109989791995695607",
+      "repo": "https://github.com/msitarzewski/agency-agents",
+      "date": "2026-10-15",
+      "stars": 160133,
+      "proposed_slug": "agency-agents-playground"
     }
   ],
   "built": [
