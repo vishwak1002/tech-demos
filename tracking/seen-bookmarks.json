@@ -104,6 +104,15 @@
       "date": "2026-10-15",
       "stars": 160133,
       "proposed_slug": "agency-agents-playground"
+    },
+    {
+      "id": "agent-skills",
+      "title": "Agent Skills (Addy Osmani engineering skills for AI coding agents)",
+      "url": "https://x.com/VaibhavSisinty/status/2109989791995695607",
+      "repo": "https://github.com/addyosmani/agent-skills",
+      "date": "2026-10-16",
+      "stars": 107094,
+      "proposed_slug": "agent-skills-playground"
     }
   ],
   "built": [
