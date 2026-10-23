@@ -113,6 +113,33 @@
       "date": "2026-10-16",
       "stars": 107094,
       "proposed_slug": "agent-skills-playground"
+    },
+    {
+      "id": "wshobson-agents",
+      "title": "wshobson/agents (multi-harness agent plugin marketplace)",
+      "url": "https://x.com/VaibhavSisinty/status/2109989791995695607",
+      "repo": "https://github.com/wshobson/agents",
+      "date": "2026-10-19",
+      "stars": 41032,
+      "proposed_slug": "wshobson-agents-playground"
+    },
+    {
+      "id": "claude-quickstarts",
+      "title": "Claude Quickstarts (Anthropic starter apps)",
+      "url": "https://x.com/VaibhavSisinty/status/2109989791995695607",
+      "repo": "https://github.com/anthropics/claude-quickstarts",
+      "date": "2026-10-20",
+      "stars": 18866,
+      "proposed_slug": "claude-quickstarts-playground"
+    },
+    {
+      "id": "knowledge-work-plugins",
+      "title": "Knowledge Work Plugins (Anthropic)",
+      "url": "https://x.com/VaibhavSisinty/status/2109989791995695607",
+      "repo": "https://github.com/anthropics/knowledge-work-plugins",
+      "date": "2026-10-21",
+      "stars": 30852,
+      "proposed_slug": "knowledge-work-plugins-playground"
     }
   ],
   "built": [
@@ -126,5 +153,22 @@
       "proposed_slug": "last30days-playground"
     }
   ],
-  "skipped": []
+  "skipped": [
+    {
+      "id": "flint-recursive",
+      "title": "Flint (Recursive SI local coding model)",
+      "url": "https://x.com/RichardSocher/status/2112944385415426249",
+      "date": "2026-10-23",
+      "reason": "model release, no GitHub repo to star-gate"
+    },
+    {
+      "id": "awesome-reverse-engineered",
+      "title": "awesome-reverse-engineered (curated list)",
+      "url": "https://x.com/Gyome1_/status/2112567090997567775",
+      "repo": "https://github.com/alexgaoth/awesome-reverse-engineered",
+      "date": "2026-10-23",
+      "stars": 607,
+      "reason": "curated list under 15k, not a library"
+    }
+  ]
 }
