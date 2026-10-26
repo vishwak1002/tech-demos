@@ -169,6 +169,13 @@
       "date": "2026-10-23",
       "stars": 607,
       "reason": "curated list under 15k, not a library"
+    },
+    {
+      "id": "clairevo-security-prompt",
+      "title": "Claire Vo account-security audit prompt (no library/repo)",
+      "url": "https://x.com/clairevo/status/2113068918239854908",
+      "date": "2026-10-26",
+      "reason": "prompt only, no concrete library"
     }
   ]
 }
