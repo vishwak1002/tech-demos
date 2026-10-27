@@ -176,6 +176,13 @@
       "url": "https://x.com/clairevo/status/2113068918239854908",
       "date": "2026-10-26",
       "reason": "prompt only, no concrete library"
+    },
+    {
+      "id": "krishna-screwstreet-stockssena",
+      "title": "Screw Street / Stocks Sena (market research sites, no library)",
+      "url": "https://x.com/Krishna1028_/status/2114742674905604609",
+      "date": "2026-10-27",
+      "reason": "Websites, not a library/framework/API with a repo"
     }
   ]
 }
